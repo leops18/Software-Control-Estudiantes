@@ -1,0 +1,38 @@
+D:\Visual Studio\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+D:\Visual Studio\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+D:\Visual Studio\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+D:\Visual Studio\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+D:\Visual Studio\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+D:\Visual Studio\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.SuggestedBindingRedirects.cache
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Data.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\linq2db.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Data.pdb
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\linq2db.xml
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programas\Visual Studio Project\Estudiantes\Estudiantes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

@@ -1,0 +1,15 @@
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\Data.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\Data.pdb
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\linq2db.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\linq2db.xml
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programas\Visual Studio Project\Estudiantes\Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programas\Visual Studio Project\Estudiantes\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\Programas\Visual Studio Project\Estudiantes\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Programas\Visual Studio Project\Estudiantes\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Programas\Visual Studio Project\Estudiantes\Data\obj\Debug\Data.dll
+D:\Programas\Visual Studio Project\Estudiantes\Data\obj\Debug\Data.pdb
